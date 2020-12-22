@@ -1,2 +1,6 @@
 enebede
+<<<<<<< HEAD
 zmiana na branchu develop
+=======
+zmiana po branchu
+>>>>>>> 0cd9eca3a787e0a4b73142801b70b26d67baca64
